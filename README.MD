@@ -1,0 +1,1 @@
+#Udemy instructor goes through Big-O notation, Performance analysis of Arrays and Objects, Lists, stacks, queues, trees, and much more. The class culminates with Dynsktra's algorithm implemented in javascript.
